@@ -6,6 +6,8 @@
 
 ## Installation
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/m1ck2/-uigradients.svg)](https://greenkeeper.io/)
+
     npm install --save uigradients
 
 ## Examples
